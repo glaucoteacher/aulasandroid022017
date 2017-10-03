@@ -1,0 +1,387 @@
+{"config": {
+    "dataAtualizacao": "2016-07-01 01:15:22",
+    "2016-07-01": {
+	"diaSemana": "sexta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-04": {
+	"diaSemana": "segunda-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-05": {
+ 	"diaSemana": "terça-feira",
+	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-07-06": {
+	"diaSemana": "quarta-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    },
+    "2016-07-07": {
+	"diaSemana": "quinta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-08": {
+	"diaSemana": "sexta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-11": {
+	"diaSemana": "segunda-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-07-12": {
+	"diaSemana": "terça-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    },
+    "2016-07-13": {
+	"diaSemana": "quarta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-14": {
+	"diaSemana": "quinta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-15": {
+	"diaSemana": "sexta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-07-18": {
+	"diaSemana": "segunda-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    },
+    "2016-07-19": {
+	"diaSemana": "terça-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-20": {
+	"diaSemana": "quarta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-21": {
+ 	"diaSemana": "quinta-feira",
+	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-07-22": {
+	"diaSemana": "sexta-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    },
+    "2016-07-25": {
+ 	"diaSemana": "segunda-feira",
+	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-26": {
+ 	"diaSemana": "terça-feira",
+	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-07-27": {
+ 	"diaSemana": "quarta-feira",
+	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-07-28": {
+	"diaSemana": "quinta-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    },
+    "2016-07-29": {
+	"diaSemana": "sexta-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito Cream Cracher e Suco de Uva",
+        	"quantidade": 10
+    	},
+ 	"opcao2": { 
+        	"lanche": "Salgado de Forno e Suco de Laranja",
+        	"quantidade": 15
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Fatia de Bolo e copo de Leite",
+        	"quantidade": 15
+    	},
+	"opcao4": { 
+        	"lanche": "Maça e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-08-01": {
+	"diaSemana": "segunda-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito maisena e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "2 Bananas e suco de Laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Sanduiche de presunto e suco de uva",
+        	"quantidade": 10
+    	},
+	"opcao4": { 
+        	"lanche": "Fatia de bolo e suco de uva",
+        	"quantidade": 10
+    	}
+    },
+    "2016-08-02": {
+	"diaSemana": "terça-feira",
+ 	"opcao1": { 
+        	"lanche": "Biscoito recheado e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Fatia de Bolo e suco de laranja",
+        	"quantidade": 10
+    	}, 	
+	"opcao3": { 
+        	"lanche": "Bolinho bauduco e Suco de Maça",
+        	"quantidade": 20
+    	}
+    },
+    "2016-08-03": {
+	"diaSemana": "quarta-feira",
+ 	"opcao1": { 
+        	"lanche": "Fatia de bolo e copo de leite",
+        	"quantidade": 20
+    	},
+ 	"opcao2": { 
+        	"lanche": "Brownie e suco de laranja",
+        	"quantidade": 30
+    	}
+    }
+}} 
